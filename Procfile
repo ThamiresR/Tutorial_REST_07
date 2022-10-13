@@ -1,1 +1,1 @@
-web: gunicorn 'Tutorial_REST_07.wsgi'
+web: gunicorn 'django_project.wsgi'
